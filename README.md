@@ -14,15 +14,15 @@ The learning exercise compares a student's submitted tags against reference tags
 
 ## Submission notes
 
-Built during Prom Fall Classic's August 31–September 26, 2026 window. Disclose substantial AI coding assistance in the Devpost description. The entrant should review, run, and explain the code and record a demo no longer than two minutes. The contest requires a source repository and video. Prize eligibility, payment, and judging remain with the organizer.
+Built during the FirstCommit hackathon in September 2026. The public demo is at https://hoangdelima09.github.io/spanlab-bio/ . Disclose substantial AI coding assistance in the Devpost description. The entrant should review, run, and explain the code and record a 3–5 minute demo. The contest requires a public source repository, project description, video, and setup instructions. Prize eligibility, payment, and judging remain with the organizer.
 
-## Demo outline (under two minutes)
+## Demo outline (3–5 minutes)
 
-1. Explain BIO with “Nguyễn / Trãi”: B-L5 then I-L5 (0:00–0:20).
-2. Open the first exercise; click “Máy thử đoán” and hover to inspect its vote share (0:20–0:45).
-3. Correct at least one label, check against the reference, save the corrected example (0:45–1:15).
-4. Try the next example; point to updated training count and explain kNN features and local privacy (1:15–1:45).
-5. State the limitation: a learning tool, not a validated parser (1:45–1:55).
+1. Explain BIO with “Nguyễn / Trãi”: B-L5 then I-L5 (0:00–0:35).
+2. Open the first exercise; click “Máy thử đoán” and hover to inspect its vote share (0:35–1:25).
+3. Correct at least one label, check against the reference, save the corrected example (1:25–2:20).
+4. Try the next example; point to updated training count and explain kNN features and local privacy (2:20–3:20).
+5. State the limitation: a learning tool, not a validated parser; describe what you personally learned (3:20–3:50).
 
 ## License
 

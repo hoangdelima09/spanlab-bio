@@ -22,7 +22,7 @@
 
 **Live demo:** https://hoangdelima09.github.io/spanlab-bio/
 
-**Video:** [add public video URL, 3–5 minutes]
+**Video:** https://hoangdelima09.github.io/spanlab-bio/spanlab-demo.mp4 (4:04 captioned walkthrough without narration; replace with your own narrated screen recording if possible)
 
 ## Video outline (about 3:50)
 

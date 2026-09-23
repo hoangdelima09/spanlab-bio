@@ -14,7 +14,7 @@ The learning exercise compares a student's submitted tags against reference tags
 
 ## Submission notes
 
-Built during the FirstCommit hackathon in September 2026. The public demo is at https://hoangdelima09.github.io/spanlab-bio/ . Disclose substantial AI coding assistance in the Devpost description. The entrant should review, run, and explain the code and record a 3–5 minute demo. The contest requires a public source repository, project description, video, and setup instructions. Prize eligibility, payment, and judging remain with the organizer.
+Built during the FirstCommit hackathon in September 2026. The public demo is at https://hoangdelima09.github.io/spanlab-bio/ . A four-minute, silent, captioned walkthrough is at https://hoangdelima09.github.io/spanlab-bio/spanlab-demo.mp4 . Disclose substantial AI coding assistance in the Devpost description. The entrant should review, run, and explain the code; a personal narrated recording would better demonstrate their learning. The contest requires a public source repository, project description, 3–5 minute video, and setup instructions. Prize eligibility, payment, and judging remain with the organizer.
 
 ## Demo outline (3–5 minutes)
 
